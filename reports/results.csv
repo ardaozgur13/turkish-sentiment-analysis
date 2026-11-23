@@ -1,0 +1,3 @@
+Model,Accuracy,Macro F1,F1 (Neg+Pos),Train time (s)
+TF-IDF + LogReg,0.882,0.8249,0.7607,7.2
+BERTurk,0.948,0.9103,0.8669,1777.6

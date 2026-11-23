@@ -1,0 +1,9 @@
+{
+  "model": "BERTurk (fine-tuned)",
+  "accuracy": 0.948,
+  "f1_macro": 0.9103290995854622,
+  "train_time_sec": 1777.6,
+  "n_train": 4000,
+  "epochs": 2,
+  "device": "CPU"
+}

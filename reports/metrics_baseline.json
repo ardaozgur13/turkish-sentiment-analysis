@@ -1,0 +1,8 @@
+{
+  "model": "TF-IDF + LogReg",
+  "best_C": 0.5,
+  "accuracy": 0.882,
+  "f1_macro": 0.8249416072217662,
+  "train_time_sec": 7.2,
+  "n_train": 4000
+}

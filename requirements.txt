@@ -1,0 +1,16 @@
+# Install PyTorch separately for CPU (smaller download):
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+# With a GPU, use the command from https://pytorch.org/get-started/locally/
+torch
+transformers[torch]
+datasets
+scikit-learn
+pandas
+pyarrow
+matplotlib
+seaborn
+tabulate
+gradio
+jupyter
+nbconvert
+ipykernel
